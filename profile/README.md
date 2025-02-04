@@ -1,4 +1,6 @@
 # Printheus: Bringing Printing Power to Your Fingertips
+Print Anywhere, Anytime
+
 
 ## Collaboration Guideline
 Welcome to the GitHub Guidelines for Printheus. These guidelines aim to ensure a consistent, organized, and efficient workflow within our GitHub organization.
